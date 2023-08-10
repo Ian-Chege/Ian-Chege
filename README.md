@@ -11,6 +11,8 @@ Building software applications to positively impact people is my goal.
 * 🧠  Software | Empathy | Impact
 * 🤝  I'm open to collaborating on Full-stack application projects
 
+  `Keep Coding, Keep Building`
+
 ### Skills
 
 
