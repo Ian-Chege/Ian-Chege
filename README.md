@@ -8,7 +8,7 @@ Building software applications to positively impact people is my goal.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [ianchege001@gmail.com](mailto:ianchege001@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  Software | Empathy | Impact
 * 🤝  I'm open to collaborating on Full-stack application projects
 
 ### Skills
