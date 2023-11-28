@@ -1,4 +1,10 @@
-![Ian.C](./assets/githubBanner.png)
+### Hi there 👋
+
+I'm Ian, a Front-end Software Engineer at [Castynet](https://castynet.africa/).
+
+Take a look at [journal.scribe](https://www.journalme.me/), my digital journaling app, under progress. I also write a [blog](https://ianc-blog.vercel.app/).
+
+<!-- ![Ian.C](./assets/githubBanner.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ian-chege/)
 
@@ -54,4 +60,4 @@ I'm Ian, a software engineer doing majorly Frontend Development. I focus on enha
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=Vitest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Vitest-informational?style=flat&logo=Vitest&logoColor=white&color=4AB197) -->
