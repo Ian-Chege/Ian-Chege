@@ -2,7 +2,7 @@
 
 I'm Ian, a Front-end Software Engineer at [Castynet](https://castynet.africa/).
 
-Take a look at [journal.scribe](https://www.journalme.me/), my digital journaling app, under progress. I also write a [blog](https://ianc-blog.vercel.app/).
+Take a look at [journal.scribe](https://www.journalme.me/), my digital journaling app, under progress. I also write software-related [articles](https://theosdev.vercel.app/).
 
 <!-- ![Ian.C](./assets/githubBanner.png)
 
