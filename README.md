@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ian, a Front-end Software Engineer at [Castynet](https://castynet.africa/).
+I'm Ian, a Software Engineer at [TheosDev](https://theosdev.vercel.app/).
 
 Take a look at [journal.scribe](https://www.journalme.me/), my digital journaling app, under progress. I also write software-related [articles](https://theosdev.vercel.app/).
 
