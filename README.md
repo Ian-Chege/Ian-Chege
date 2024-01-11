@@ -2,7 +2,9 @@
 
 I'm Ian, a Software Engineer at [TheosDev](https://theosdev.vercel.app/).
 
-Take a look at [journal.scribe](https://www.journalme.me/), my digital journaling app, under progress. I also write software-related [articles](https://theosdev.vercel.app/).
+🚀 Building a collaborative [online code editor](https://codeeditorz.vercel.app/), focused on creating a platform that fosters real-time cooperation and seamless interaction among developers. Bridging geographical gaps and enabling developers worldwide to collaborate, learn, and grow together. 
+
+✨ Check out also my latest article on [Inline Caching](https://theosdev.vercel.app/blog/JavaScriptVM-A-look-into-Inline-Caching).
 
 <!-- ![Ian.C](./assets/githubBanner.png)
 
