@@ -4,7 +4,7 @@ I'm Ian, a Software Engineer at [TheosDev](https://theosdev.vercel.app/).
 
 🚀 Building a collaborative [online code editor](https://codeeditorz.vercel.app/), focused on creating a platform that fosters real-time cooperation and seamless interaction among developers. Bridging geographical gaps and enabling developers worldwide to collaborate, learn, and grow together. 
 
-✨ Check out also my latest article on [Inline Caching](https://theosdev.vercel.app/blog/JavaScriptVM-A-look-into-Inline-Caching).
+✨ Check out also my latest article on [Building a successful CLI](https://theosdev.vercel.app/blog/Checklist-for-building-a-successful-cli).
 
 <!-- ![Ian.C](./assets/githubBanner.png)
 
