@@ -1,4 +1,8 @@
-### Hi there 👋
+```
+Building impactful products that make a difference.
+```
 
-I'm Ian, a Software Engineer at [IgniteDevKE](https://ignite-dev.vercel.app/), where we ignite the power of collaboration through software.
-Latest product - [Collab Board](https://collabboardx.vercel.app/)
+- 🔭 Enhance your YouTube experience with AI-powered summaries and chat with [YouTube AI Chrome Extension](https://github.com/IgniteDevKE/Youtube-AI-browser-extenstion)
+- 🪢 Revolutionize collaborative workspaces for teams with [CollabBoard](https://collabboardx.vercel.app)
+- 💎 Empowering young minds to create with technology [Digikids E-Learning Platform](https://studio.digikids.co.ke/) (preview)
+- 🚀 Elevate your ML skills with [ProgSkill Machine Learning Course](https://progskill.com/pro/intermediate-machine-learning)  
